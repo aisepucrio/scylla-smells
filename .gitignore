@@ -1,0 +1,16 @@
+# Ignorar ambientes virtuais
+.venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar configurações específicas do VSCode
+.vscode/
+
+# Ignorar arquivos de sistema (exemplo: macOS)
+.DS_Store
