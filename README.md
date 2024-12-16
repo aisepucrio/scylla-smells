@@ -1,4 +1,5 @@
 
+
 # **Code Smells Detection**
 
 Este projeto tem como objetivo detectar *code smells* em arquivos Python para ajudar a melhorar a qualidade do código. Ele identifica os seguintes *code smells*:
@@ -77,4 +78,6 @@ Para a análise de *code smells*, utilizamos o [Pylint](https://pylint.pycqa.org
    ```
    (nome_do_arquivo, linha_inicial, linha_final, "Nome do Code Smell")
    ```
+
+
 

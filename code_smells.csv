@@ -1,0 +1,72 @@
+arquivo,linha inicial,linha final,code smells,descrição
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,4,4,Too Many Arguments,"A função possui 11 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,36,36,Too Many Arguments,"A função possui 11 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,4,15,Long Method, Total de linhas: 12
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,36,47,Long Method, Total de linhas: 12
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,48,48,Dead Code,Unused Function: __init__
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,52,52,Dead Code,Unused Function: latir
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,55,55,Dead Code,Unused Function: comer
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,58,58,Dead Code,Unused Function: brincar
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,61,61,Dead Code,Unused Function: dormir
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,3,3,Dead Code,Unused Class: PessoaDetalhada
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,35,35,Dead Code,Unused Class: PessoaDetalhada2
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,3,33,Large Class: ," Total de atributos: 15, Total de Linhas: 30"
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,35,64,Large Class: ," Total de atributos: 15, Total de Linhas: 29"
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,3,3,Lazy Class: PessoaDetalhada,Inheritance depth < 2 (depth=0)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/a.py,35,35,Lazy Class: PessoaDetalhada2,Inheritance depth < 2 (depth=0)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,1,23,Long Method, Total de linhas: 27
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,28,47,Long Method, Total de linhas: 27
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,55,75,Long Method, Total de linhas: 22
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,76,76,Dead Code,Unused Class (too simple): Too few public methods (1/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,1,1,Dead Code,Unused Function: latir
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,28,28,Dead Code,Unused Function: bater
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,55,55,Dead Code,Unused Function: bate2r
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,77,77,Dead Code,Unused Function: unused_method
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,76,76,Dead Code,Unused Class: MyClass
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/c.py,76,76,Lazy Class: MyClass,Inheritance depth < 2 (depth=0)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/dead.py,4,4,Dead Code,Unused Local Variable: Unused variable 'y' (unused-variable)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/dead.py,7,7,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/dead.py,1,1,Dead Code,Unused Import: Unused import os (unused-import)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/dead.py,3,3,Dead Code,Unused Function: unused_function
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/dead.py,7,7,Dead Code,Unused Class: UnusedClass
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/dead.py,7,7,Lazy Class: UnusedClass,Inheritance depth < 2 (depth=0)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,1,1,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,4,4,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,7,7,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,10,10,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,13,13,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,16,16,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,19,19,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,22,22,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,25,25,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,1,1,Dead Code,Unused Class: A
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,4,4,Dead Code,Unused Class: B
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,7,7,Dead Code,Unused Class: C
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,10,10,Dead Code,Unused Class: D
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,13,13,Dead Code,Unused Class: E
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,16,16,Dead Code,Unused Class: F
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,19,19,Dead Code,Unused Class: G
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,22,22,Dead Code,Unused Class: H
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,25,25,Dead Code,Unused Class: I
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,1,1,Lazy Class: A,Inheritance depth < 2 (depth=0)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,4,4,Lazy Class: B,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,7,7,Lazy Class: C,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,10,10,Lazy Class: D,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,13,13,Lazy Class: E,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,16,16,Lazy Class: F,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,19,19,Lazy Class: G,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,22,22,Lazy Class: H,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,25,25,Lazy Class: I,Inheritance depth < 2 (depth=1)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,1,1,Parallel Inheritance Hierarchies: A,Number of child classes > 4 (children=5)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/herq.py,13,13,Parallel Inheritance Hierarchies: E,Inheritance depth > 3 (depth=4)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,1,1,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,5,5,Dead Code,Unused Class (too simple): Too few public methods (1/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,9,9,Dead Code,Unused Class (too simple): Too few public methods (0/2) (too-few-public-methods)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,10,10,Dead Code,Unused Function: __init__
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,6,6,Dead Code,Unused Function: method1
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,1,1,Dead Code,Unused Class: SimpleClass
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,5,5,Dead Code,Unused Class: AnotherClass
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,9,9,Dead Code,Unused Class: SubClass
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,1,1,Lazy Class: SimpleClass,Inheritance depth < 2 (depth=0)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,5,5,Lazy Class: AnotherClass,Inheritance depth < 2 (depth=0)
+C:/Users/Gabriel/Documents/vscode/testaCode/arquivos/test_lazy_class.py,9,9,Lazy Class: SubClass,Inheritance depth < 2 (depth=1)
