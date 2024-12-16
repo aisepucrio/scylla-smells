@@ -21,7 +21,7 @@ def check_code_smells_in_directory(directory):
         for smell in (too_many_args_smells + long_method_smells + dead_code_smells + lc):
             print(smell)
 
-        print("/--------------------------------------------------------------------------------------------------------------------------/")
+        print("/--------------------------------------------------------------------------------------------------------------------------/\n\n\n")
 
 # Exemplo de uso
 if __name__ == "__main__":
