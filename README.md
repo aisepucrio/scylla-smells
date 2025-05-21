@@ -96,13 +96,16 @@ Este projeto tem como objetivo detectar *code smells* em arquivos Python, auxili
 2. **Prepare os arquivos para análise:**  
    Coloque os arquivos Python que você deseja verificar no diretório configurado no script.
 
-3. **Execute o script principal:**  
+3. **Adapte o caminho para o seu diretorio do arquivo**
+    Insira o caminho para a pasta arquivos na main
+
+4. **Execute o script principal:**  
    Rode o script para iniciar a análise:  
    ```bash
    python main.py
    ```
 
-4. **Resultados:**  
+5. **Resultados:**  
    - O script gera um arquivo CSV no diretório raiz, contendo os resultados detalhados de cada *code smell*.  
    - Os campos no CSV incluem:
      - **Arquivo:** Caminho do arquivo onde o problema foi encontrado.  
