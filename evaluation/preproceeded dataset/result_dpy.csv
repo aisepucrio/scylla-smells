@@ -1,0 +1,90 @@
+System,Package,Module,Smell,Line Ini,Line Fin
+DPy,django.django.contrib.admin,actions,Long method,19,93
+DPy,django.django.contrib.admin,checks,Long method,56,174
+DPy,django.django.contrib.admin,checks,Long method,218,267
+DPy,django.django.contrib.admin,checks,Long method,995,1052
+DPy,django.django.contrib.admin,checks,Long method,1105,1157
+DPy,django.django.contrib.admin,filters,Long method,465,527
+DPy,django.django.contrib.admin,filters,Long parameter list,176,185
+DPy,django.django.contrib.admin,filters,Long parameter list,214,218
+DPy,django.django.contrib.admin,filters,Long parameter list,223,238
+DPy,django.django.contrib.admin,filters,Long parameter list,329,341
+DPy,django.django.contrib.admin,filters,Long parameter list,400,407
+DPy,django.django.contrib.admin,filters,Long parameter list,465,527
+DPy,django.django.contrib.admin,filters,Long parameter list,565,582
+DPy,django.django.contrib.admin,filters,Long parameter list,655,667
+DPy,django.django.contrib.admin,helpers,Long method,341,381
+DPy,django.django.contrib.admin,helpers,Long method,384,423
+DPy,django.django.contrib.admin,helpers,Long parameter list,101,116
+DPy,django.django.contrib.admin,helpers,Long parameter list,312,339
+DPy,django.django.contrib.admin,helpers,Long parameter list,476,493
+DPy,django.django.contrib.admin,models,Long method,54,101
+DPy,django.django.contrib.admin,models,Long method,165,227
+DPy,django.django.contrib.admin,models,Long parameter list,29,51
+DPy,django.django.contrib.admin,options,Long method,161,231
+DPy,django.django.contrib.admin,options,Long method,302,350
+DPy,django.django.contrib.admin,options,Long method,453,520
+DPy,django.django.contrib.admin,options,Long method,791,844
+DPy,django.django.contrib.admin,options,Long method,1172,1247
+DPy,django.django.contrib.admin,options,Long method,1344,1405
+DPy,django.django.contrib.admin,options,Long method,1412,1510
+DPy,django.django.contrib.admin,options,Long method,1512,1601
+DPy,django.django.contrib.admin,options,Long method,1631,1698
+DPy,django.django.contrib.admin,options,Long method,1700,1746
+DPy,django.django.contrib.admin,options,Long method,1845,1980
+DPy,django.django.contrib.admin,options,Long method,2013,2191
+DPy,django.django.contrib.admin,options,Long method,2209,2272
+DPy,django.django.contrib.admin,options,Long method,2274,2331
+DPy,django.django.contrib.admin,options,Long method,2443,2535
+DPy,django.django.contrib.admin,options,Long parameter list,1344,1405
+DPy,django.django.contrib.admin,sites,Long method,251,315
+DPy,django.django.contrib.admin,utils,Long method,123,180
+DPy,django.django.contrib.admin,utils,Long method,351,414
+DPy,django.django.contrib.admin,utils,Long method,549,603
+DPy,django.django.contrib.admin,widgets,Long parameter list,254,283
+DPy,django.django.db.models,aggregates,Long method,59,103
+DPy,django.django.db.models,base,Long method,95,367
+DPy,django.django.db.models,base,Long method,375,428
+DPy,django.django.db.models,base,Long method,460,572
+DPy,django.django.db.models,base,Long method,678,758
+DPy,django.django.db.models,base,Long method,823,898
+DPy,django.django.db.models,base,Long method,954,1021
+DPy,django.django.db.models,base,Long method,1026,1071
+DPy,django.django.db.models,base,Long method,1073,1169
+DPy,django.django.db.models,base,Long method,1212,1263
+DPy,django.django.db.models,base,Long method,1404,1465
+DPy,django.django.db.models,base,Long method,1467,1514
+DPy,django.django.db.models,base,Long method,1904,1971
+DPy,django.django.db.models,base,Long method,2088,2176
+DPy,django.django.db.models,base,Long method,2179,2231
+DPy,django.django.db.models,base,Long method,2234,2340
+DPy,django.django.db.models,base,Long method,2343,2420
+DPy,django.django.db.models,base,Long parameter list,1073,1169
+DPy,django.django.db.models,base,Long parameter list,1171,1197
+DPy,django.django.db.models,constraints,Long method,310,377
+DPy,django.django.db.models,constraints,Long method,384,480
+DPy,django.django.db.models,constraints,Long method,618,724
+DPy,django.django.db.models,deletion,Long method,245,396
+DPy,django.django.db.models,deletion,Long method,432,518
+DPy,django.django.db.models,deletion,Long parameter list,245,396
+DPy,django.django.db.models,indexes,Long method,19,78
+DPy,django.django.db.models,indexes,Long method,236,294
+DPy,django.django.db.models,options,Long method,101,156
+DPy,django.django.db.models,options,Long method,171,235
+DPy,django.django.db.models,options,Long method,278,320
+DPy,django.django.db.models,options,Long method,865,958
+DPy,django.django.db.models,query,Long method,2278,2429
+DPy,django.django.db.models,query,Long method,2439,2509
+DPy,django.django.db.models,query,Long method,2512,2636
+DPy,django.django.db.models,query,Long method,85,146
+DPy,django.django.db.models,query,Long method,688,740
+DPy,django.django.db.models,query,Long method,742,840
+DPy,django.django.db.models,query,Long method,864,914
+DPy,django.django.db.models,query,Long method,1113,1155
+DPy,django.django.db.models,query,Long method,1638,1692
+DPy,django.django.db.models,query,Long parameter list,742,840
+DPy,django.django.db.models,query,Long parameter list,844,859
+DPy,django.django.db.models,query,Long parameter list,1716,1731
+DPy,django.django.db.models,query,Long parameter list,1821,1846
+DPy,django.django.db.models,query,Long parameter list,1851,1893
+DPy,django.django.db.models,query,Long parameter list,2046,2065
