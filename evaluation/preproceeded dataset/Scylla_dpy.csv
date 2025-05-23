@@ -1,0 +1,133 @@
+file,start line,end line,code smells,description
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/actions.py,19,94,Long Method,Total de linhas: 76
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/checks.py,56,176,Long Method,Total de linhas: 122
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,176,176,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,214,214,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,223,223,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,329,329,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,400,400,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,465,465,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,565,565,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/filters.py,655,655,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/helpers.py,41,41,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/helpers.py,101,101,Long parameter list,"A função possui 8 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/helpers.py,312,312,Long parameter list,"A função possui 11 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/helpers.py,476,476,Long parameter list,"A função possui 9 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/models.py,54,55,Long Method,Total de linhas: 86
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/models.py,29,29,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/models.py,54,54,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,161,232,Long Method,Total de linhas: 72
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,453,521,Long Method,Total de linhas: 69
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,1179,1218,Long Method,Total de linhas: 70
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,1412,1511,Long Method,Total de linhas: 100
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,1512,1602,Long Method,Total de linhas: 91
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,1631,1699,Long Method,Total de linhas: 69
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,1845,1982,Long Method,Total de linhas: 138
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,2013,2193,Long Method,Total de linhas: 181
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,940,940,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,1275,1275,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/options.py,1344,1344,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/sites.py,464,535,Long Method,Total de linhas: 72
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/widgets.py,254,254,Long parameter list,"A função possui 8 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.contrib.admin/widgets.py,497,497,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/aggregates.py,59,59,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,95,368,Long Method,Total de linhas: 274
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,460,573,Long Method,Total de linhas: 115
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,678,759,Long Method,Total de linhas: 87
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,823,829,Long Method,Total de linhas: 112
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,954,960,Long Method,Total de linhas: 72
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,1073,1080,Long Method,Total de linhas: 98
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,1904,1972,Long Method,Total de linhas: 70
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,2088,2177,Long Method,Total de linhas: 91
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,2234,2341,Long Method,Total de linhas: 109
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,2343,2421,Long Method,Total de linhas: 80
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,954,954,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,1026,1026,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,1073,1073,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,1171,1171,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/base.py,1199,1199,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/constraints.py,310,321,Long Method,Total de linhas: 71
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/constraints.py,384,481,Long Method,Total de linhas: 98
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/constraints.py,618,724,Long Method,Total de linhas: 107
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/constraints.py,154,154,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/constraints.py,310,310,Long parameter list,"A função possui 10 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/deletion.py,245,254,Long Method,Total de linhas: 154
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/deletion.py,432,518,Long Method,Total de linhas: 87
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/deletion.py,245,245,Long parameter list,"A função possui 9 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,539,542,Long Method,Total de linhas: 135
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,274,274,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,752,752,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,894,894,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1007,1007,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1069,1069,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1080,1080,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1172,1172,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1229,1229,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1269,1269,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1405,1405,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1533,1533,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1598,1598,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1679,1679,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/expressions.py,1926,1926,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/indexes.py,19,19,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/indexes.py,236,236,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/lookups.py,169,169,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/options.py,865,871,Long Method,Total de linhas: 96
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/options.py,865,865,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,85,148,Long Method,Total de linhas: 69
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,742,749,Long Method,Total de linhas: 122
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,2278,2431,Long Method,Total de linhas: 161
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,2512,2638,Long Method,Total de linhas: 143
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,742,742,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,844,844,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,1716,1716,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,1821,1821,Long parameter list,"A função possui 9 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,1851,1851,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query.py,2046,2046,Long parameter list,"A função possui 8 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/query_utils.py,86,86,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/signals.py,26,26,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related.py,230,345,Long Method,Total de linhas: 116
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related.py,1269,1271,Long Method,Total de linhas: 74
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related.py,1462,1691,Long Method,Total de linhas: 230
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related.py,535,535,Long parameter list,"A função possui 11 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related.py,942,942,Long parameter list,"A função possui 9 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related.py,1343,1343,Long parameter list,"A função possui 11 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related_descriptors.py,273,348,Long Method,Total de linhas: 76
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related_descriptors.py,537,607,Long Method,Total de linhas: 71
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/related_descriptors.py,1501,1502,Long Method,Total de linhas: 71
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/reverse_related.py,42,42,Long parameter list,"A função possui 8 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/reverse_related.py,276,276,Long parameter list,"A função possui 9 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/reverse_related.py,331,331,Long parameter list,"A função possui 9 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/reverse_related.py,364,364,Long parameter list,"A função possui 10 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/__init__.py,317,389,Long Method,Total de linhas: 73
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/__init__.py,570,663,Long Method,Total de linhas: 94
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/__init__.py,186,186,Long parameter list,"A função possui 25 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/fields/__init__.py,1945,1945,Long parameter list,"A função possui 8 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/functions/datetime.py,85,86,Long Method,Total de linhas: 133
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/functions/datetime.py,85,85,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/functions/datetime.py,284,284,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,94,196,Long Method,Total de linhas: 103
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,229,330,Long Method,Total de linhas: 68
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,331,473,Long Method,Total de linhas: 143
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,674,692,Long Method,Total de linhas: 76
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,750,976,Long Method,Total de linhas: 227
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,1212,1214,Long Method,Total de linhas: 114
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,1438,1460,Long Method,Total de linhas: 68
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,1757,1836,Long Method,Total de linhas: 80
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,1053,1053,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/compiler.py,1167,1167,Long parameter list,"A função possui 8 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/datastructures.py,49,49,Long parameter list,"A função possui 8 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,197,216,Long Method,Total de linhas: 96
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,446,634,Long Method,Total de linhas: 189
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,684,799,Long Method,Total de linhas: 116
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,1450,1460,Long Method,Total de linhas: 162
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,1716,1831,Long Method,Total de linhas: 116
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,2051,2119,Long Method,Total de linhas: 69
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,2476,2543,Long Method,Total de linhas: 69
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,2578,2654,Long Method,Total de linhas: 77
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,1450,1450,Long parameter list,"A função possui 10 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,1640,1640,Long parameter list,"A função possui 10 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,1832,1832,Long parameter list,"A função possui 6 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/query.py,2352,2352,Long parameter list,"A função possui 7 argumentos, excedendo o limite recomendado."
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/where.py,40,115,Long Method,Total de linhas: 76
+C:/Users/Gabriel/Documents/vscode/metricas/evaluation/code fragments/dpy_django.django.db.models/sql/where.py,116,189,Long Method,Total de linhas: 74
