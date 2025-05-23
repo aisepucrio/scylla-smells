@@ -24,7 +24,7 @@ def check_too_many_arguments(file_path, pylint_output):
 
 
 #--------------------------------------------------------------------------------------#
-def check_long_method(file_path, max_lines=10):
+def check_long_method(file_path, max_lines=67):
     """Verifica e retorna as linhas de funções que excedem um limite de linhas."""
 
     
@@ -52,7 +52,7 @@ def check_long_method(file_path, max_lines=10):
 
 #--------------------------------------------------------------------------------------#
 
-def check_lc(file_path, pylint_output, max_lines=20, max_attributes_methods=5):
+def check_lc(file_path, pylint_output, max_lines=200, max_attributes_methods=40):
     # Encontra padrões de classes e métodos no pylint_output
     class_pattern = re.findall(r"(\d+):\d+: R0902: Too many instance attributes \((\d+)/\d+\)", pylint_output)
     method_pattern = re.findall(r"(\d+):\d+: R0904: Too many public methods \((\d+)/\d+\)", pylint_output)
