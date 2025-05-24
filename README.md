@@ -1,4 +1,4 @@
-# **Code Smells Detection**
+# **Scylla: A Tool for Detecting Code Smells in Python**
 
 Este projeto tem como objetivo detectar *code smells* em arquivos Python, auxiliando desenvolvedores a melhorar a qualidade do código, reduzindo complexidade e facilitando a manutenção. O sistema identifica os seguintes *code smells*:
 
