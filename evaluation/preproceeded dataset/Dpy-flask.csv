@@ -1,0 +1,8 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+flask.src.flask,app,Flask,Long method,run,546 - 667,C:\Users\guicu\Downloads\flask-20250521T154428Z-1-001\flask\src\flask\app.py,Method 'run' is too long (48 lines).
+flask.src.flask,app,Flask,Long method,url_for,1003 - 1127,C:\Users\guicu\Downloads\flask-20250521T154428Z-1-001\flask\src\flask\app.py,Method 'url_for' is too long (62 lines).
+flask.src.flask,app,Flask,Long method,make_response,1129 - 1269,C:\Users\guicu\Downloads\flask-20250521T154428Z-1-001\flask\src\flask\app.py,Method 'make_response' is too long (75 lines).
+flask.src.flask,cli,,Long method,find_best_app,41 - 89,C:\Users\guicu\Downloads\flask-20250521T154428Z-1-001\flask\src\flask\cli.py,Method 'find_best_app' is too long (41 lines).
+flask.src.flask,cli,,Long method,find_app_by_string,120 - 196,C:\Users\guicu\Downloads\flask-20250521T154428Z-1-001\flask\src\flask\cli.py,Method 'find_app_by_string' is too long (66 lines).
+flask.src.flask.sansio,app,App,Long method,__init__,282 - 411,C:\Users\guicu\Downloads\flask-20250521T154428Z-1-001\flask\src\flask\sansio\app.py,Method '__init__' is too long (43 lines).
+flask.src.flask.sansio,blueprints,Blueprint,Long method,register,273 - 377,C:\Users\guicu\Downloads\flask-20250521T154428Z-1-001\flask\src\flask\sansio\blueprints.py,Method 'register' is too long (68 lines).

@@ -1,0 +1,14 @@
+file,start line,end line,code smells,description
+C:/Users/Gabriel/Documents/teste/flask/src/flask/app.py,74,80,Long Method, Total de linhas: 152
+C:/Users/Gabriel/Documents/teste/flask/src/flask/app.py,546,552,Long Method, Total de linhas: 123
+C:/Users/Gabriel/Documents/teste/flask/src/flask/app.py,1003,1012,Long Method, Total de linhas: 126
+C:/Users/Gabriel/Documents/teste/flask/src/flask/app.py,1129,1270,Long Method, Total de linhas: 142
+C:/Users/Gabriel/Documents/teste/flask/src/flask/cli.py,120,199,Long Method, Total de linhas: 80
+C:/Users/Gabriel/Documents/teste/flask/src/flask/cli.py,493,494,Long Method, Total de linhas: 70
+C:/Users/Gabriel/Documents/teste/flask/src/flask/cli.py,698,699,Long Method, Total de linhas: 68
+C:/Users/Gabriel/Documents/teste/flask/src/flask/helpers.py,400,408,Long Method, Total de linhas: 126
+C:/Users/Gabriel/Documents/teste/flask/src/flask/sansio/app.py,52,58,Long Method, Total de linhas: 230
+C:/Users/Gabriel/Documents/teste/flask/src/flask/sansio/app.py,282,293,Long Method, Total de linhas: 131
+C:/Users/Gabriel/Documents/teste/flask/src/flask/sansio/blueprints.py,87,92,Long Method, Total de linhas: 87
+C:/Users/Gabriel/Documents/teste/flask/src/flask/sansio/blueprints.py,273,378,Long Method, Total de linhas: 106
+C:/Users/Gabriel/Documents/teste/flask/src/flask/sansio/scaffold.py,75,81,Long Method, Total de linhas: 142
