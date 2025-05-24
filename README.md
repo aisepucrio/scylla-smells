@@ -105,7 +105,6 @@ The analysis workflow follows:
 If you use Scylla in your work, please cite the paper:
 
 > Gervasio, G. et al. *Scylla: A Tool for Detecting Code Smells in Python*. SBES 2025.  
-> [Link to paper (Zenodo)](https://doi.org/10.5281/zenodo.15500180)
 
 ---
 
