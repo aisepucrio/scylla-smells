@@ -329,3 +329,34 @@ def detect_parallel_inheritance(file_path):
     return parallel_inheritance
 
 
+def check_magic_numbers(file_path: str) -> List[Tuple[str, int, int, str, str]]:
+    """
+    Verifica a presença de Magic Numbers no código-fonte.
+
+    Args:
+        file_path (str): Caminho do arquivo a ser analisado.
+
+    Returns:
+        List[Tuple[str, int, int, str, str]]: Lista de ocorrências do code smell Magic Number.
+    """
+    magic_number_pattern = re.compile(r'(?<!["\'])\b(-?(?!0\b)\d+(\.\d*)?)\b(?!["\'])')
+    allowed_numbers = {"0", "1", "-1"}
+    code_smells = []
+
+    with open(file_path, "r", encoding="utf-8", errors="ignore") as file:
+        lines = file.readlines()
+
+    for line_number, line in enumerate(lines, start=1):
+        matches = magic_number_pattern.findall(line)
+        for match in matches:
+            number = match[0]  # O número capturado
+
+            if number not in allowed_numbers:
+                code_smells.append((
+                    file_path, line_number, line_number,
+                    "Magic Number",
+                    "When there is a numerical literal, except commonly used 0, -1, and 1, without any definition for that."
+                ))
+
+    return code_smells
+
