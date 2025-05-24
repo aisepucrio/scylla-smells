@@ -7,7 +7,8 @@ from code_smell_checkers import (
     check_dead_code,
     check_lc,
     detect_lazy_classes,
-    detect_parallel_inheritance
+    detect_parallel_inheritance,
+    check_magic_numbers
 )
 
 
@@ -61,9 +62,10 @@ def check_code_smells_in_directory(directory, output_file="code_smells.csv"):
         LC = check_lc(file_path, pylint_output)
         LZ = detect_lazy_classes(file_path)
         PH = detect_parallel_inheritance(file_path)
+        MN = check_magic_numbers(file_path) 
 
         # Coleta os resultados de cada análise
-        for smell in TMA + LM + DC + LC  + LZ + PH:
+        for smell in TMA + LM + DC + LC  + LZ + PH + MN:
             if len(smell) == 5:
                 all_results.append({
                     "arquivo": smell[0].replace("\\", "/"),
