@@ -98,13 +98,6 @@ Scylla is organized into four main modules:
 The analysis workflow follows:  
 **Input → Static Analysis → Smell Detection → Report Generation**
 
----
-
-## **Citation**
-
-If you use Scylla in your work, please cite the paper:
-
-> Gervasio, G. et al. *Scylla: A Tool for Detecting Code Smells in Python*. SBES 2025.  
 
 ---
 
