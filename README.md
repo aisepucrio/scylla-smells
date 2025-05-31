@@ -66,14 +66,13 @@ The tool currently detects the following code smells:
 
 ### 1. **Install Dependencies**
 ```bash
-pip install pylint
+pip install streamlit
 ```
 
 ### 2. **Run the Tool**
 You can analyze a specific file or a folder (non-recursive).
 ```bash
-Change the path to where you want Scylla to analyze inside the main file, line 85
-python main.py
+streamlit run app.py
 ```
 
 ### 3. **Output**
