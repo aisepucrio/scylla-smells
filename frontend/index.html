@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scylla - Code Smell Detector</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Scylla</h1>
+    <p>Code Smell Detector for Python Projects</p>
+  </header>
+
+  <main>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+      <label for="file">Select a Python file or folder:</label>
+      <input type="file" name="file" id="file" multiple>
+      <button type="submit">Analyze</button>
+    </form>
+
+    <section id="results">
+      <h2>Detected Code Smells</h2>
+      <div id="smell-list"></div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
